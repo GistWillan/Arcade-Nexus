@@ -1,0 +1,7 @@
+C:\Users\GistWilliam\source\repos\Arcade Nexus\bin\Debug\Arcade Nexus.exe.config
+C:\Users\GistWilliam\source\repos\Arcade Nexus\bin\Debug\Arcade Nexus.exe
+C:\Users\GistWilliam\source\repos\Arcade Nexus\bin\Debug\Arcade Nexus.pdb
+C:\Users\GistWilliam\source\repos\Arcade Nexus\obj\Debug\Arcade Nexus.csproj.AssemblyReference.cache
+C:\Users\GistWilliam\source\repos\Arcade Nexus\obj\Debug\Arcade Nexus.csproj.CoreCompileInputs.cache
+C:\Users\GistWilliam\source\repos\Arcade Nexus\obj\Debug\Arcade Nexus.exe
+C:\Users\GistWilliam\source\repos\Arcade Nexus\obj\Debug\Arcade Nexus.pdb
