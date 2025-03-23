@@ -40,21 +40,6 @@
 
 ---
 
-## 💻 **安装与运行**
-
-1️⃣ **克隆项目**  
-```bash
-git clone https://github.com/yourusername/ArcadeNexus.git
-```
-
-2️⃣ **打开解决方案**  
-使用 Visual Studio、JetBrains Rider 或其他支持 C# 的 IDE 打开项目。  
-
-3️⃣ **编译与运行**  
-点击运行程序，进入主菜单选择游戏开始畅玩！  
-
----
-
 ## 🎮 **操作指南**
 
 每个游戏的具体操作都有屏幕提示，以下是通用操作：
